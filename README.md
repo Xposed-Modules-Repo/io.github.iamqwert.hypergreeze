@@ -1,12 +1,12 @@
 # HyperGreeze（HyperOS FCM Live）
 
-**简体中文** · [English](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/README_EN.md)
+**简体中文** · [English](https://github.com/iamqwert/HyperGreeze/blob/main/README_EN.md)
 
 解除小米澎湃系统（HyperOS 3 / 4）对谷歌推送（FCM）广播与 GMS 的后台限制，让推送在后台可靠送达。
 
 > 本模块使用 AI 辅助开发。
 
-[源码仓库](https://github.com/iamqwert/HyperOS_FCM_Live) · [使用帮助](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/HELP.md) · [技术文档](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/FCM_HOOK_TECH_DOC.md) · [更新日志](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/CHANGELOG.md)
+[源码仓库](https://github.com/iamqwert/HyperGreeze) · [使用帮助](https://github.com/iamqwert/HyperGreeze/blob/main/HELP.md) · [技术文档](https://github.com/iamqwert/HyperGreeze/blob/main/FCM_HOOK_TECH_DOC.md) · [更新日志](https://github.com/iamqwert/HyperGreeze/blob/main/CHANGELOG.md)
 
 ---
 
@@ -38,7 +38,7 @@
 4. 打开模块，勾选需要接收 FCM 推送的应用（GMS 始终自动受保护，无需勾选）
 5. 切到底栏 **「记录」** 页，确认连接状态为「已连接」且钩子装载正常
 
-更多配置与排查详见 [使用帮助（HELP.md）](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/HELP.md)。
+更多配置与排查详见 [使用帮助（HELP.md）](https://github.com/iamqwert/HyperGreeze/blob/main/HELP.md)。
 
 ---
 
@@ -61,10 +61,10 @@ HyperGreeze removes Xiaomi HyperOS 3 / 4 (Android 15+) background broadcast, ala
 
 - **Scope**: System Framework (`system`) and Battery and Performance (`com.miui.powerkeeper`)
 - **Requirements**: HyperOS 3 / 4 (Android 15+), LSPosed API ≥ 101 (API ≥ 102 recommended for automatic hot-reload), working GMS
-- **Docs**: [README (EN)](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/README_EN.md) · [User Guide](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/HELP_EN.md) · [Source Code](https://github.com/iamqwert/HyperOS_FCM_Live)
+- **Docs**: [README (EN)](https://github.com/iamqwert/HyperGreeze/blob/main/README_EN.md) · [User Guide](https://github.com/iamqwert/HyperGreeze/blob/main/HELP_EN.md) · [Source Code](https://github.com/iamqwert/HyperGreeze)
 
 ---
 
 ## 许可
 
-本项目采用 [GNU GPL-3.0](https://github.com/iamqwert/HyperOS_FCM_Live/blob/main/LICENSE) 协议开源。
+本项目采用 [GNU GPL-3.0](https://github.com/iamqwert/HyperGreeze/blob/main/LICENSE) 协议开源。
